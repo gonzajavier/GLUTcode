@@ -1,0 +1,2 @@
+run/
+git rm --catched -r run
